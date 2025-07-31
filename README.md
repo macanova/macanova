@@ -1,64 +1,108 @@
-<h1 align="center">Hi, I'm Macanove 👋</h1>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=MACANOVE+%F0%9F%92%BB+NETWORK+ENGINEER+%7C+AI+SECURITY+ARCHITECT;Cyber+%7C+Cloud+%7C+IoT+%7C+Automation;Connecting+the+World%2C+Securely+%E2%9C%94" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Network%20Engineer%20in%20the%20Making-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cyber%20Security%20Enthusiast-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%2B%20Networking%20Researcher-purple?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100px"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌐 Who is Macanove?
 
-I’m **Macanove**, a passionate and forward-thinking individual pursuing a B.Sc. in Computer Science and deeply invested in the evolving landscape of **Network Engineering**.
+```bash
+> identity.trace()
+🧠 Human | 🎓 CS Undergrad | 🛰 Network Engineering Focus
+🔍 Obsessed with: Securing, Automating & Optimizing Networks
+🤖 AI enthusiast blending intelligence into Infrastructure
+````
 
-🔧 Currently:
-- 🎓 Studying BSc Computer Science  
-- 📡 Pursuing certifications in **CCNA** and **CCNP**  
-- 🔐 Diving deep into **Cybersecurity** and **Network Tool Development**  
-- 🤖 Exploring how **AI can enhance, secure, and optimize network infrastructure**  
-- 🌐 Actively experimenting with **IoT networking** and **network simulators** like Cisco Packet Tracer
+I’m a cyber-synced systems thinker, pursuing my B.Sc. in Computer Science while walking the Cisco path (CCNA/CCNP), exploring AI-enhanced network frameworks, and creating intelligent tooling for modern infrastructure.
 
----
+### 🧬 My DNA:
 
-## 🛠️ Tech Stack
-
-| Category         | Tools & Languages |
-|------------------|-------------------|
-| 💻 Languages      | Python, Java, PHP, HTML/CSS, JavaScript |
-| 📱 Mobile Dev     | Android (Java/Kotlin) |
-| 🌐 Web Dev        | HTML, CSS, JS, PHP |
-| 🧠 AI & Automation | Python (AI, ML), IoT frameworks |
-| 🌍 Networking     | Packet Tracer, GNS3, Wireshark, Nmap |
-| 🔒 Security Tools | Burp Suite, Metasploit, OpenVAS |
+* **Network Architecture** 📡 | Topology engineering, subnetting, traffic optimization
+* **Security Toolsmith** 🛠 | Building recon tools, network monitors, AI firewalls
+* **IoT Networking** 📶 | Edge-device routing, secure sensor mesh design
+* **AI + Networking** 🧠 | Intelligent threat detection, network anomaly prediction
 
 ---
 
-## 📌 Current Goals
+## 🛠️ Toolbox of a Network Architect
 
-- 🥇 Become a globally recognized **Network Architect & Engineer**
-- 🎯 Build intelligent, self-defending network systems using AI
-- 🔧 Develop open-source **network security tools** and **simulators**
-- 📚 Contribute to the security & networking communities
-
----
-
-## 📈 GitHub Stats
+| Category        | Stack                                              |
+| --------------- | -------------------------------------------------- |
+| 🌐 Networking   | Cisco Packet Tracer, GNS3, Wireshark, Nmap, Netcat |
+| 🔐 Security     | Burp Suite, Hydra, OpenVAS, Fail2Ban               |
+| 🤖 AI / ML      | Python, Scikit-learn, OpenCV, Transformers         |
+| 📱 Mobile + IoT | Android (Java), NodeMCU, ESP32, Arduino, MQTT      |
+| 🌍 Web Dev      | HTML, CSS, JS, PHP, Flask                          |
+| ⚙️ Infra        | Linux, Shell, VirtualBox, Docker (learning)        |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macanove&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macanove&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,php,linux,androidstudio,arduino" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧠 Network Mindset (What Drives Me)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Personal Portfolio (Coming Soon)](https://yourportfolio.com)  
-- ✉️ Email: macanove@example.com
+```yaml
+Vision:
+  - Reinvent network engineering with AI
+  - Automate defensive security at the edge
+  - Build lightweight, scalable, open tools for every network engineer
+
+Ethos:
+  - Innovation > Convention
+  - Visibility ≠ Vulnerability
+  - Simplicity scales. Security sustains.
+```
 
 ---
 
-> “I don’t just build networks, I build intelligent, secure ecosystems that connect the future.”  
-> — Macanove
+## 🌎 Projects That Matter
+
+| 🔗 Project            | 🌟 Description                                               |
+| --------------------- | ------------------------------------------------------------ |
+| **AI NetGuard**       | Python-based anomaly detection for home routers (WIP)        |
+| **SmartMesh Monitor** | ESP32 + MQTT + Flask dashboard for IoT topology tracking     |
+| **PacketView++**      | Wireshark + Nmap + AI model = Visual threat monitor          |
+| **NextSec Recon**     | Custom script set for automated reconnaissance and reporting |
+
+> 🔒 All source contributions to be published in upcoming repositories.
+
+---
+
+## 📡 Real-Time Git Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=macanove&show_icons=true&theme=codeSTACKr&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=macanove&theme=tokyonight_duo&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 🧭 Let's Connect
+
+<p align="center">
+  <a href="mailto:macanove@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/macanove"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## ✍️ Quote I Live By
+
+> “The network is no longer just the pipes — it's the intelligence flowing through them.”
+> — *Macanove, Future Architect of Intelligent Infrastructure*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ftB0lxW1CCl3fL6RxP/giphy.gif" width="360px"/>
+</p>
+```
