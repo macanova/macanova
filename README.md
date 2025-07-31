@@ -11,12 +11,11 @@
 
 ## 🌐 Who is Macanove?
 
-```bash
+
 > identity.trace()
 🧠 Human | 🎓 CS Undergrad | 🛰 Network Engineering Focus
 🔍 Obsessed with: Securing, Automating & Optimizing Networks
 🤖 AI enthusiast blending intelligence into Infrastructure
-````
 
 I’m a cyber-synced systems thinker, pursuing my B.Sc. in Computer Science while walking the Cisco path (CCNA/CCNP), exploring AI-enhanced network frameworks, and creating intelligent tooling for modern infrastructure.
 
