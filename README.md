@@ -12,7 +12,7 @@
 ## 🌐 Who is Macanove?
 
 
-> identity.trace()
+
 🧠 Human | 🎓 CS Undergrad | 🛰 Network Engineering Focus
 🔍 Obsessed with: Securing, Automating & Optimizing Networks
 🤖 AI enthusiast blending intelligence into Infrastructure
