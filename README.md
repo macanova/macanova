@@ -102,7 +102,3 @@ Ethos:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ftB0lxW1CCl3fL6RxP/giphy.gif" width="360px"/>
-</p>
-```
