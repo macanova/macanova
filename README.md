@@ -114,6 +114,4 @@ Research Interests:
 > 🧬 *"I don't just configure routers. I architect digital highways fortified with intelligence."*
 > — **Macanove**
 
-```
-
 
