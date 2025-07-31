@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=MACANOVE+%F0%9F%92%BB+NETWORK+ENGINEER+%7C+AI+SECURITY+ARCHITECT;Cyber+%7C+Cloud+%7C+IoT+%7C+Automation;Connecting+the+World%2C+Securely+%E2%9C%94" alt="Typing SVG" />
 </h1>
@@ -15,12 +14,11 @@
   <img src="https://raw.githubusercontent.com/macanove/macanove/main/assets/banner.png" alt="A sleek banner showing network topology with AI nodes"/>
 </p>
 
-```bash
 > trace --identity
 🧠 Human | 🎓 B.Sc. Computer Science | 🛰 Cisco Certified Network Engineer
 > cat core-philosophy.txt
 Obsessed with securing, automating, and optimizing the digital infrastructure that connects us all.
-````
+
 
 I'm a **Cyber-Synced Systems Thinker** blending my computer science background with a deep passion for network engineering. I'm on a journey to architect the next generation of intelligent, self-healing networks by leveraging AI and automation.
 
@@ -104,4 +102,3 @@ I'm always open to connecting with fellow engineers, architects, and innovators.
 \</p\>
 
 ```
-
